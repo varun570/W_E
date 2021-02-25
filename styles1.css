@@ -1,0 +1,56 @@
+body{
+    background-color: salmon;
+}
+.container{
+    background-color: rgb(199, 216, 210);
+    width: 800px;
+    margin:0px auto 0px auto;/*0px auto*/
+    border: 5px solid rgb(30, 17, 85);
+    border: width 20p;
+
+
+}
+.header{
+    background-color: rgb(62, 238, 18);
+    text-align: center;
+    height:50px;
+    line-height: 50px;
+    color : black;
+    font-family: Arial;
+    font-size: 15px;
+    
+    
+      
+      
+
+}
+.nav{
+float: left;
+width: 140px;
+line-height: 60px;
+background-color: thistle;
+height: 100vh;
+}
+.main{
+    float:left; 
+    width: 650px;
+    background-color: tan;
+    height: 100vh;
+    
+    font-family: cursive;
+    font-size: 15px;
+     
+    
+}
+.footer{
+    clear:both;
+    background-color: rgb(62, 238, 18);
+    height:50px;
+    line-height: 50px;
+    text-align: center;
+    color:black;
+}
+p{
+    padding: 10x;
+    text-align: justify;
+}
